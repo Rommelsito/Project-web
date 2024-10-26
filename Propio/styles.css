@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    text-align: center;
+    padding: 20px;
+    background-color: aqua;
+}
+
+header h1{
+    
+}
+
+.conceptos h3{
+    margin: 20px;
+}
+
+ul{
+    margin: 30px;
+}
+.conceptos p {
+    max-width: 500px;
+    text-align: justify;
+    margin-left: 10px;
+}
+
+
+.Musculacion article p{
+    max-width: 600px;
+    text-align: justify;
+    margin-left: 15px;
+}
+
+.Musculacion article .result{
+    margin: 40px;
+    margin-left: 200px;
+}
+
+.Musculacion img{
+    border-style: solid;
+    border-radius: 20px;
+    display: block;
+    margin-left: 50px;
+    margin-top: 55px;
+}
+
+
+.definiciones .title{
+    margin: 40px;
+    margin-left: 200px;
+    font-size: 25px;
+}
+
+.definiciones h2{
+    padding: 20px;
+    margin-left: 20px;
+}
+
+.definiciones img{
+    margin: 30px;
+    margin-top: 45px;
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
